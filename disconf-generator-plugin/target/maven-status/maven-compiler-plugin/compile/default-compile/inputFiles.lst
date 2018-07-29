@@ -1,0 +1,9 @@
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/generator/ConfigBeanGenerator.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/fetch/ConfigFileFetcher.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/utils/TypeSurmiser.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/mojo/ConfigGeneratorMojo.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/generator/ConfigClassContainer.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/generator/PropertyBeanGenerator.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/utils/CodeNamer.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/utils/ConfigItemParser.java
+/Users/felton/Workspace/github/disconf-generator-plugin/disconf-generator-plugin/src/main/java/com/github/felton/disconf/generator/plugin/utils/CodeTemplate.java
