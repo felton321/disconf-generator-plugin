@@ -87,6 +87,7 @@ public class Redis {
 8. 配置类中Field的类型自动识别的顺序为:
 ```
 Boolean -> Integer -> String
-```
-  其他暂不支持。
+``` 
+其他暂不支持.
+
 9. 如有问题请联系: felton321@sina.com
