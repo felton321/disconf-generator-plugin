@@ -88,5 +88,5 @@ public class Redis {
 ```
 Boolean -> Integer -> String
 ```
-其他暂不支持。
+  其他暂不支持。
 9. 如有问题请联系: felton321@sina.com
