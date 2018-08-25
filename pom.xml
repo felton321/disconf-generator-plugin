@@ -42,4 +42,10 @@
 		<module>disconf-generator-plugin</module>
 		<module>disconf-generator-example</module>
 	</modules>
+	<developers>
+          <developer>
+            <name>felton</name>
+            <email>felton321@sina.com</email>
+          </developer>
+        </developers>
 </project>
